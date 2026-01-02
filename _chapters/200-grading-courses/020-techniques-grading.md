@@ -4,75 +4,115 @@ slug: techniques-grading
 ---
 ## Intent
 
-Techniques Grading (TG) is a mastery-based grading approach designed for proof-intensive courses, where course objectives are framed as the techniques covered in the course. TG draws on principles from specifications and standards-based grading to create a structured system that supports students in achieving mastery in writing correct mathematical proofs. TG intends to provide a transparent grading system where grades are assigned based on the product of the students' work and which enables students to demonstrate proficiency in proof techniques through multiple attempts and clear, criteria-driven evaluations.
-
+Students demonstrate mastery of specific proof techniques through binary (pass/fail) assessment of their written proofs, with multiple opportunities to meet each objective.
 
 ## Problem
 
-In most proof-based courses, the core challenge is not merely to convey facts about mathematical objects but to develop students’ "habits of mind" and mastery of essential techniques in combinatorics, algebra, or analysis. The goal is to help students think critically, adopting the specific problem-solving mindset of experts in the field. In this context, theorems, definitions, and complex proofs are valuable primarily as tools for cultivating analytical thinking. The TG approach focuses on fostering a deeper, discipline-specific way of thinking by encouraging students to "think like an analyst" or "think like a topologist."
-
+In proof-based courses, the central challenge is not merely conveying facts about mathematical objects but developing students' "habits of mind" and mastery of essential proof techniques. The goal is helping students think critically in discipline-specific ways—to "think like an analyst" or "think like a topologist." Traditional grading systems that award partial credit for attempted proofs often obscure whether students have actually mastered the techniques needed for rigorous mathematical thinking.
 
 ## Solution
 
-TG is structured around several key elements to ensure students achieve proficiency in proof techniques, with an emphasis on **binarity** (objectives are binary or pass/fail),  **product focused** (objectives are stated in terms of the student’s work product), **multiple chances** (students are given multiple chances to achieve each objective), and **transparency** (the system is clear to students). 
-  + **Binarity** and **product-focus** are inherent in the system's structure, where each proof is graded based on whether it meets a set standard, making the evaluation straightforward and focused on mastering specific skills.
-  + At the **per-proof level**, the S/P/U (Satisfactory/Partial/Unsatisfactory) marking scheme provides **multiple chances**, allowing students to try again to demonstrate mastery on each proof. Additionally, because the technique objectives are common and fundamental, students have numerous opportunities to showcase their skills across the many proofs assigned throughout the semester.
-  + **Transparency** is emphasized by the TG syllabus, which clearly outlines not only the expectations for students but also the course's overall goals. It provides a detailed list of skills students need to acquire, directly linking the grade to the student’s mastery of these skills, and clarifying the standards for assessment from the start of the term.
-This transparent and structured approach ensures that students understand what they need to do to succeed, with multiple opportunities to demonstrate their competence.
+Techniques Grading (TG) is a mastery-based approach where course objectives are framed as the proof techniques students must master. The system is built on four key principles:
 
+**Binarity**: Each objective is pass/fail—students either demonstrate mastery of a technique or they don't.
 
+**Product focus**: Objectives are stated in terms of students' work product—specifically, whether they write clear, correct, complete proofs using specified techniques.
+
+**Multiple chances**: Students receive multiple opportunities to demonstrate each technique. The S/P/U grading system allows resubmission of "Progressing" proofs, and because techniques are chosen for broad applicability, they appear across many assigned proofs throughout the semester.
+
+**Transparency**: The syllabus explicitly lists all technique objectives at each grade level from the start, making clear exactly what students must demonstrate to achieve each grade.
 
 ## Applicability
 
-The TG system works well in proofs-based courses, particularly when the focus is on developing and mastering specific techniques. In these courses, non-content objectives like participation and exam performance are typically not challenging, as most students meet the required standards. The real challenge lies in defining the **technique objectives**—the key skills students must master. These are identified by analyzing patterns in past assignments and textbooks, as well as considering well-established learning objectives. Techniques related to fundamental theorems or equivalent definitions, like Taylor's Theorem or the Heine-Borel Theorem, are natural candidates.
-To refine these objectives, the source suggests focusing on techniques that appear frequently in course materials. While the list of potential techniques can be long, only the most frequently used ones are selected, and less common techniques are still included through direct instruction or supplemental homework. This approach ensures that students receive repeated opportunities to practice and master essential techniques, making the TG system effective in fostering deep learning in proofs-based courses.
+**When this works well:**
 
-Here are the challenges that could be faced while implementing this play. 
+TG is designed for proof-intensive courses where developing technique mastery is the primary goal—courses in algebra, analysis, combinatorics, topology, or transitions to proof. It works best when you can identify a manageable number of techniques (10-30) that appear frequently across course content and when you assign substantial weekly homework with many proof problems (typically 100-200 proofs per semester).
 
-First, student buy-in could be a significant hurdle. The complexity of the TG syllabus compared to traditional grading can cause initial confusion and reluctance, as students are unfamiliar with it. To address this, the source mentioned to be transparent about the differences, emphasizing the system’s goals and the detailed skills it aims to develop. Despite initial resistance, the source mentions that most students eventually appreciate the play and report no difference in learning outcomes compared to traditional grading.
+**Key challenge - identifying technique objectives**: The real work is selecting which techniques to assess. Analyze patterns in past homework assignments and textbooks to identify frequently-used techniques. Named theorems that appear repeatedly (like Taylor's Theorem) are natural candidates. Pairs of equivalent definitions (like different characterizations of compactness) often generate multiple technique objectives. Narrow the list to techniques appearing frequently enough that students have multiple chances to demonstrate mastery.
 
-Second, the problem cases involve situations where the subjective grading assessment can differ from the TG-based grade. These discrepancies occasionally highlight the need for adjustments in the grading criteria or reveal that the TG system is, in fact, correct. Although this issue is common across all grading systems, the TG system allows for refinement and improvements over time, making it adaptable.
+**Student buy-in**: The TG syllabus is more complex than traditional grading, which can cause initial confusion. Address this by explaining how TG differs and emphasizing that the detailed technique list shows exactly what skills they'll develop. Despite initial resistance, most students adapt and appreciate the clarity by semester's end.
 
+**Problem cases**: Occasionally your subjective assessment of a student's deserved grade may differ from their TG-calculated grade. Sometimes this reveals needed adjustments to objectives; sometimes the TG grade is justified. This occurs in all grading systems, but TG allows iterative refinement.
+
+**What you're gaining/trading:**
+- Gain: Clear learning objectives, reduced grade-grubbing, higher-quality student work, student reflection on course themes
+- Trade: More complex syllabus, cannot bank points early, requires careful upfront objective selection
 
 ## How to Implement
 
-The TG objectives are divided into three main categories: technique objectives, which make up the majority; exam objectives, which assess performance on quizzes and exams; and participation objectives. To earn a specific letter grade, students need to meet the requirements for that grade within each category. A student’s overall grade is determined by the lowest letter grade achieved across the categories. If a student does not meet the minimum "C" level in any one category, they will receive a "D" or an "F." In cases where there is a discrepancy between categories, a plus or minus grade may be assigned, with the primary influence on these distinctions coming from the technique objectives.
-  + **Technique Objectives:** These form the core of TG, defining the specific proof techniques that students must master. Each objective is binary (pass/fail) and linked to writing a clear, correct proof demonstrating the targeted technique. Technique objectives are chosen based on their broad applicability, allowing students multiple opportunities to demonstrate mastery across various assignments.
-  + **Grading of Proofs (S/P/U System):** Proofs are graded using a three-tier system: Satisfactory (S): A proof meets the high standards required and counts towards the objective. Progressing (P): The proof has correctable flaws, allowing the student to revise and resubmit. Unsatisfactory (U): The proof has fundamental errors that require a new approach. Students are allowed unlimited resubmissions for "P" proofs, supporting iterative learning.
-  + **Exam Objectives:** In addition to technique objectives, exams assess foundational knowledge in a low-stakes format, focusing on recall, definitions, and analysis rather than on-the-spot proof writing. Performance on exams contributes to the final grade but is not the primary focus.
-  + **Participation Objectives:** These objectives incentivize student engagement through ungraded activities, such as journal reflections, creative assignments, and pre-class preparations. Participation objectives aim to encourage consistent effort and self-reflection.
-  + **Final Portfolio:** At the end of the term, students compile a portfolio of their S-marked proofs. Each proof is accompanied by an explanation of the technique it demonstrates, requiring students to reflect on and articulate their understanding. This portfolio serves as a summative assessment of their mastery over the course objectives.
-  + **Multiple Chances and Transparency:** TG is designed to be transparent, with clear criteria for each objective and multiple opportunities to demonstrate mastery. The syllabus communicates these standards at the outset, providing students with a roadmap of what is expected and how they will be assessed throughout the course.
+**1. Structure objectives into three categories**
 
-TG’s structure incorporates elements from specifications and standards-based grading systems but is adapted to address the unique demands of teaching proof-writing skills, emphasizing skill mastery over time, clarity in expectations, and the iterative improvement of students' work.
+**Technique objectives** (the core): Define specific proof techniques students must master. Each is binary—students either submit a qualifying S-marked proof or they don't.
 
+Specify which techniques students must demonstrate for each letter grade:
 
+*Example from transitions course:*
+- **C**: proof by ordinary induction, proof by contradiction, open-ended problem
+- **B**: All C objectives plus complete induction, proving definitions equivalent, proving calculus fact
+- **A**: All B objectives plus proving uniqueness, using Well-Ordering Principle, proving properties of finite sets
+
+*Example from real analysis (with tiered difficulty):*
+- **C**: 50 proofs total, 10 techniques
+- **B**: 65 proofs total, 20 techniques (including 10 Level II)
+- **A**: 80 proofs total, 30 techniques (including 15 Level II)
+
+**Exam objectives**: Reserve exams for recall, definitions, and short-answer questions. Set lower thresholds than traditional systems to reduce anxiety:
+- **C**: 50% on two midterms and final
+- **B**: 50% and 70% on midterms, 70% on final
+- **A**: 70% and 85% on midterms, 80% on final
+
+**Participation objectives**: Ungraded assignments (reflection journals, pre-class work, creative assignments) that encourage engagement.
+
+**Final grade calculation**: A student's grade is the minimum across all three categories. Plus/minus grades awarded when categories disagree, influenced primarily by technique objectives.
+
+**2. Implement S/P/U grading for proofs**
+
+**Satisfactory (S)**: Proof meets high standards—clear claim, correct notation, successfully proves what it claims. Only S proofs count toward objectives.
+
+**Progressing (P)**: Proof has correctable flaws. Students may revise and resubmit unlimited times. Resubmissions graded on same basis—can receive another P for further revision.
+
+**Unsatisfactory (U)**: Proof has catastrophic mistakes or doomed strategy. Students must attempt a different proof.
+
+**Resubmission policy**: Base opportunities on whether the proof is fixable, not student's abstract ability. Resubmissions must be revisions, not entirely new attempts.
+
+**3. Assign proofs strategically**
+
+Assign 100-200 proofs per semester through weekly homework. Choose problems that provide multiple opportunities for each technique and allow students to demonstrate multiple techniques in single proofs.
+
+**4. Require an end-of-term portfolio**
+
+Students compile only S-marked proofs. For each proof, students write 1-2 sentences explaining which technique objective(s) it meets and why.
+
+*Example*: "I used the Sequential Characterization of Continuity to show f is continuous at x₀ by proving that for every sequence (xₙ) converging to x₀, the sequence (f(xₙ)) converges to f(x₀)."
+
+**Timeline**: Due before final exam.
+
+**Audit**: Review to verify techniques are actually demonstrated. Students typically misidentify 1-2 techniques; give them another chance to submit correct proofs (usually already completed).
+
+**5. Develop your technique objectives**
+
+**Tally existing work**: Review 3 semesters of homework assignments and your textbook, tallying technique frequency.
+
+**Identify candidates**: Named theorems, equivalent definitions, and fundamental proof methods that appear repeatedly.
+
+**Narrow the list**: Remove techniques appearing only 2-3 times. Aim for techniques students can demonstrate in multiple contexts. Removed techniques can still appear in instruction without being formal objectives.
+
+**6. Communicate clearly**
+
+Address student concerns at course start: acknowledge TG differs from traditional grading, explain the syllabus details all skills they'll develop, note grades connect to demonstrated skills not accumulated points, clarify students cannot pass on partial credit.
+
+Make all expectations transparent from day one—required techniques for each grade, S/P/U standards, exam thresholds, participation requirements.
 
 ## See Also
 
-_List any other related plays here as a bullet list of chapter links.
-Then remove this text._
-
+- Mastery-Based Grading
+- Specifications Grading
+- Standards-Based Grading
 
 ## Source
 
-Source: Andrew A. Cooper (2020) Techniques Grading: Mastery Grading for Proofs Courses, PRIMUS, 30:8-10, 1071-1086, DOI: 10.1080/10511970.2020.1733151
-
-
-Described by: Debarati Basu,  (basud@erau.edu)
-
+Cooper, A. A. (2020). Techniques Grading: Mastery Grading for Proofs Courses. PRIMUS, 30(8-10), 1071-1086. DOI: 10.1080/10511970.2020.1733151
 
 ## References
 
-_Insert references to publications or web pages describing, evaluating, or
-sharing experiences with this technique. Then remove this text._
-
-
-## Community Discussion
-
-Community members are free to comment on, ask questions about, share
-experiences, or otherwise contribute to knowledge about this play by
-posting comments below.
-See {% include chapter-link.html slug="join-discussions" %} for details.
-
-* Insert a comment here
+Described by: Debarati Basu, basud@erau.edu
