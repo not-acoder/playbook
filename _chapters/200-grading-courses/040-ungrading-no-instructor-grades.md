@@ -3,112 +3,45 @@ title: Ungrading with no instructor-given grades (instead self- or peer-assessme
 slug: ungrading-no-instructor-grades
 ---
 
-
 ## Intent
 
-Students determine their own final grades through self-assessment (or peer assessment), with instructor support provided through feedback rather than traditional grading.
+Replace instructor-assigned grades with student-driven self-assessment and qualitative feedback to foster a supportive learning environment that prioritizes intrinsic motivation and long-term skill development over points.
 
 ## Problem
 
-Traditional grading systems treat students like products to be evaluated rather than people engaged in learning. Grades often fail to measure learning effectively and create problematic dynamics: they induce stress and anxiety, promote fear of failure that demotivates students, and encourage extrinsic rather than intrinsic motivation. Research shows that once students receive a grade, their motivation to continue learning that material stops—the grade becomes the end goal rather than the learning itself.
-
-Grades also promote risk-aversion when learning should encourage experimentation. Students focus on "what grade do I need?" rather than "what can I learn?" This undermines the learning process and treats people as vessels to be filled rather than active participants in their education.
+Traditional grading often reduces complex human learning to a single numerical value or letter, which can induce significant stress, demotivate students, and distract them from the actual learning process. Standard systems can label students prematurely, reinforcing a fixed mindset where learners focus on the "commodity of grades" rather than personal growth. This environment often creates an adversarial relationship between teachers and students, where the pursuit of points overshadows meaningful engagement with course material.
 
 ## Solution
 
-Ungrading eliminates instructor-assigned grades on student work. Instead, learning progresses through feedback, discussion, and revision. To satisfy institutional requirements for final grades, students assign their own grades through self-assessment, sometimes complemented by peer assessment.
-
-Key characteristics of the approach:
-
-**Emphasis on feedback**: Conversational feedback through dialogue between student and instructor or among students replaces grading. Examples, descriptions, and discussions progress learning to a mutually satisfactory conclusion.
-
-**Focus on continuous improvement**: Students are encouraged to perpetually improve and keep learning rather than stopping once they achieve a goal. Learning is not capped—students can always revise and improve their work.
-
-**Self-paced learning**: Students set their own speed, all achieving their required level of learning at their own pace.
-
-**Opportunity to revise**: Students receive feedback and can resubmit work, developing both the will and opportunity to strive for improvement.
-
-**Supportive learning community**: Learning happens collaboratively—students learn from each other and from the instructor, not in isolation.
+Implement an ungrading approach where the primary focus is on a continuous cycle of formative feedback and reflection. Grades are either eliminated entirely or, if required by the institution, determined through a collaborative process of self-assessment and peer-review. This model is built on a "pedagogy of care," where learning is self-paced and students have the autonomy to choose their curriculum and resubmit work until they reach a "satisfactory conclusion" for both themselves and the instructor. By removing the pressure of external judgment, students are empowered to take ownership of their education within a supportive community of practice.
 
 ## Applicability
 
-**When this works well:** Courses emphasizing growth mindset and intrinsic motivation, manageable class sizes allowing individualized feedback, and institutional flexibility in assessment approaches.
-
-**When this is challenging:** Large enrollment courses, programs requiring external certification or standardized outcomes, rigid institutional grading policies, and contexts where students are unfamiliar with self-assessment.
-
-**Critical challenge - student buy-in:** Students have spent their educational lives focused on grades. Ungrading can initially feel frightening or uncertain. Clear explanation of how it works and reassurance that grades won't suffer is essential. Despite initial resistance, students typically come to appreciate the approach, reporting reduced stress and improved mental wellbeing.
-
-**Institutional requirements:** Most institutions still require final letter grades. Ungrading accommodates this by having students self-assess their final grade, often in consultation with the instructor.
+This play is most effective in small-to-medium-sized classes where the instructor can invest time in deep, conversational feedback. It is highly suitable for subjects that require creative exploration, critical thinking, and a growth mindset. However, instructors should consider the tradeoff of significant upfront planning and the need for clear institutional buy-in. It may be less applicable in massive courses or certification programs with rigid standardized outcome requirements, though small ungrading trials can still be implemented for specific units or assignments.
 
 ## How to Implement
 
-**1. Plan and communicate clearly from the start**
-
-Explain the rationale to students: their grades will be determined jointly (or through self/peer assessment) near semester's end, grades won't be negatively affected, and the focus will be on feedback and improvement. Set clear expectations about how the process works, when grades will be determined, and what role feedback plays.
-
-**2. Start small with pilot implementations**
-
-Test ungrading with specific topics or assignments before converting an entire course. Choose topics students typically find taxing or unpopular—these often generate grade-focused stress, so removing grading can be especially beneficial.
-
-**3. Provide plentiful, conversational feedback**
-
-Provide detailed commentary that:
-- Describes what the student accomplished (specific strengths)
-- Identifies areas for improvement with specifics
-- Suggests pathways forward with concrete guidance
-- Invites dialogue through questions and encouragement to respond
-
-Frame feedback as conversation, not judgment. Use examples, descriptions, and discussions rather than evaluative labels.
-
-**4. Enable revision and resubmission**
-
-Build revision into your course structure. Students should be able to receive feedback, revise based on it, resubmit for further feedback, and continue this cycle until reaching a mutually satisfactory level. Make clear that revision is expected and valued, not a sign of failure.
-
-**5. Facilitate peer and self-assessment**
-
-**Peer assessment**: Create structured opportunities for students to review each other's work using guidelines or rubrics focused on substantive issues.
-
-**Self-assessment**: Regularly ask students to reflect:
-- What did you learn from this assignment?
-- What are you most proud of?
-- What would you improve if you revised it?
-- How does this work demonstrate progress toward course goals?
-
-**6. Teach self-assessment through scaffolded reflection**
-
-Provide reflection activities throughout the semester:
-- Journal entries about learning progress
-- Mid-semester self-evaluations against course objectives
-- Reflections on feedback received and changes made
-- Comparisons of early and later work to identify growth
-
-**7. Determine final grades through self-assessment**
-
-Near course end, ask students to propose their own final grade with structured support:
-
-**Compile evidence**: Students review their semester's work and identify what they've learned and accomplished.
-
-**Written justification**: Students explain why they deserve the proposed grade, citing specific evidence from their work, growth demonstrated, and course objectives met.
-
-**Grade conferences**: Meet with students to discuss their self-assessments. This conversation allows you to understand their reasoning, point out evidence they may have overlooked, negotiate if your assessment differs significantly, and affirm their growth.
-
-In most cases, student self-assessments align reasonably well with instructor judgment. When discrepancies occur, conversation usually resolves them.
-
-**8. Create a supportive learning community**
-
-Foster community through collaborative assignments, peer review exchanges, class discussions where all contributions are valued, and emphasis on collective learning. The approach connects to a "pedagogy of care"—centering student needs, building empathetic relationships, and creating supportive environments.
+Start by clearly communicating the "ungrading" rationale to students at the beginning of the term to alleviate anxiety about their final standing. Pick a specific, challenging unit to trial the process before scaling course-wide. Throughout the semester, replace points with descriptive, conversational feedback that highlights areas for improvement and celebrates growth. To meet institutional grading requirements, schedule mid-term and end-of-term "grade conferences" where students present a portfolio of their work and argue for their own grade based on clearly stated proficiency targets. Use these sessions to co-create a final evaluation that reflects the student's true mastery and effort, ensuring that the final mark is a transparent reflection of the learning journey.
 
 ## See Also
 
-- Specifications Grading
-- Contract Grading
-- Mastery-Based Grading
-- Self-Grading
+- Adaptive Peer Grading during Formative Assessment
+- Mastery Grading for Equity
 
 ## Source
 
-Ferns, Shaun & Hickey, Robert & Williams, Helen. (2021). Ungrading, Supporting Our Students through a Pedagogy of Care. International Journal for Cross-Disciplinary Subjects in Education (IJCDSE), 12(2). DOI: 10.20533/ijcdse.2042.6364.2021.0550
+Ferns, S., Hickey, R., & Williams, H. (2021). Ungrading, Supporting Our Students through a Pedagogy of Care. International Journal for Cross-Disciplinary Subjects in Education (IJCDSE), 12(2), 4500-4504. https://doi.org/10.20533/ijcdse.2042.6364.2021.0550
+
+> **AI Disclosure:** This play was modified using generative AI. You can view the original version at [https://cs-equitable-grading-practices.github.io/playbook/contents.html](https://cs-equitable-grading-practices.github.io/playbook/contents.html)
 
 ## References
 
-Described by: Dan Garcia
+
+## Community Discussion
+
+Community members are free to comment on, ask questions about, share
+experiences, or otherwise contribute to knowledge about this play by
+posting comments below.
+See {% include chapter-link.html slug="join-discussions" %} for details.
+
+* Insert a comment here.

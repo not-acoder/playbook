@@ -2,43 +2,38 @@
 title: Outcome Evaluation Clobbering
 slug: outcome-evaluation-clobbering
 ---
+
 ## Intent
 
-Instead of allowing resubmission of work, which may have logistical difficulties, allow students grades in subsequent assessments to override those from previous attempts at demonstrating the same skills or aptitudes.
+Implement an "outcome evaluation clobbering" system where grades from subsequent assessments automatically override lower marks from earlier attempts at the same learning outcomes, rewarding final mastery and growth without the logistical burden of manual resubmissions.
 
 ## Problem
 
-Students may struggle to demonstrate their mastery of a skill on an attempt, but subsequently, through additional work or formative assessment, they may improve in their abilities. Often this can be addressed by allowing re-submission and re-assessment of work, but in many contexts, the grading burden or timing issues may make that impossible.
+Traditional assessment models often fix a student's grade at a single point in time, even if the student later demonstrates significant improvement in that same skill. While allowing manual resubmissions is one solution, it often imposes a prohibitive grading burden on instructors and TAs, especially in large courses. Without a mechanism to "repair" early mistakes, students may become demotivated by a low initial mark that they feel no longer reflects their current understanding, leading to disengagement or even withdrawal from the course.
 
 ## Solution
 
-If a learning outcome is demonstrable in a later opportunity in the course, allow the evaluation from that later opportunity to supercede or "clobber" the earlier evaluation. For example, if a particular skill can be demonstrated in assignment n, and also in assignment n + 1, allow the evaluation from assignment n + 1 to replace that from assignment n if it improves the students overall evaluation.
+Design the course so that learning outcomes are revisited across multiple assignments or exams. When a student demonstrates a higher level of proficiency on a specific skill in a later assessment, that score should automatically "clobber" or replace the lower score from the earlier assessment. This ensures that the final grade is a more accurate representation of the student's end-of-course mastery. To prevent students from simply skipping early assessments, a "participation threshold" (e.g., a minimum score of 20% or evidence of a legitimate attempt) should be required on the initial attempt before it becomes eligible for clobbering by later work.
 
 ## Applicability
 
-This play can be done in any context where the evaluation of learning outcomes is preformed multiple times throughout the course. Either in similar formats (e.g., subsequent tests or assignments) or different formats (e.g., a quiz question being over-written by an exam question)
+This play is highly effective in introductory programming (CS1) and other skill-based disciplines where concepts are naturally cumulative. It works best in environments with automated grading tools that can handle the logic of score overrides without manual intervention. A primary tradeoff is the potential for increased student workload, as learners may spend more time on subsequent assignments to repair earlier grades. Instructors must also carefully align learning outcomes across different assessment formats (e.g., ensuring a final exam question truly tests the same skill as an early lab) to maintain the integrity of the evaluation.
 
 ## How to Implement
 
-If an evaluation applies to a specific learning outcome, and that outcome has already been evaluated at an earlier stage in the course, the later evaluation can supercede the earlier. A concrete example: if a student's ability to write a while loop is evaluated on assignments 1, 3 and 5, any student who gets a better result on assignment 3's evaluation of while loops (under any grading rubric) can have that evaluation replace the while loop component of assignment 1. For assignment 5, the evaluation could be applied to assignment 3 or both 1 and 3.
-
-Variations:
-- This could be implemented within assessment type (e.g., assignment component grades replacing earlier assignment components, final exam question grades replacing midterm grades for similar questions), or across components (e.g., exam grades for a skill replacing quiz, assignment, and midterm evaluations on that same skill).
+Start by mapping each assessment to specific, granular learning outcomes (e.g., "Variables," "Control Flow," "Data Structures"). Ensure that later assignments are "inclusive," meaning they incorporate and re-evaluate outcomes from previous units. Set up your gradebook logic to compare scores across these mapped outcomes: if grade_n > grade_{n-1}, update the earlier record. To encourage consistent effort, establish a rule that only "serious attempts" (e.g., those meeting a 20% proficiency threshold) are eligible for clobbering. Clearly communicate this policy in the syllabus, emphasizing that the final grade will reflect their best and most recent demonstrations of mastery, thereby reducing the high-stakes pressure of any single initial evaluation.
 
 ## See Also
 
-_List any other related plays here as a bullet list of chapter links.
-Then remove this text._
 
 ## Source
 
-Source: João Paulo Barros. 2010. Assessment and grading for CS1: towards a complete toolbox of criteria and techniques. In Proceedings of the 10th Koli Calling International Conference on Computing Education Research (Koli Calling '10). Association for Computing Machinery, New York, NY, USA, 106–111. https://doi.org/10.1145/1930464.1930483
+João Paulo Barros. 2010. Assessment and grading for CS1: towards a complete toolbox of criteria and techniques. In Proceedings of the 10th Koli Calling International Conference on Computing Education Research (Koli Calling '10). Association for Computing Machinery, New York, NY, USA, 106–111. https://doi.org/10.1145/1930464.1930483
 
-Described by: [Brian Harrington](http://brianharrington.net)
+> **AI Disclosure:** This play was modified using generative AI. You can view the original version at [https://cs-equitable-grading-practices.github.io/playbook/contents.html](https://cs-equitable-grading-practices.github.io/playbook/contents.html)
 
 ## References
 
-_probably a common one
 
 ## Community Discussion
 

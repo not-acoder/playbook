@@ -2,56 +2,32 @@
 title: Differentiated instruction using pre- and post-tests
 slug: differentiated-instruction-using-pre-and-post-tests
 ---
+
 ## Intent
 
-Many equitable grading approaches de-emphasize or eliminate conventional ranking-oriented methods of assessment in favor of more individualized assessments that take into account students' starting levels of preparation and growth during their time in a course. This play discusses an approach using pre- and post-tests to identify weak points in a students' starting understanding of a topic, which can then serve as a guide to creating an individualized instruction plan.
+Use pre- and post-tests to identify individual knowledge gaps and growth trajectories, enabling the creation of personalized instruction plans that prioritize student progress over static class rankings.
 
 ## Problem
 
-Conventional assessment methods assume that students enter a course with roughly equal levels of preparation and then score and rank students against each other to reward the highest performers and remove the lowest performers.
-
-Standard assessment methods may not be applicable if students enter a course with unequal levels of preparation. Further, a ranking-oriented approach with failure as the punishment raises student anxiety, which harms engagement and shifts students' goals towards meeting grading expectations rather than learning.
-Some educators see traditional grading as reflecting a fundamentally capitalist orientation and would prefer to use an assessment approach that draws upon different values.
+Standardized assessments often assume a uniform starting point, ignoring the diverse educational backgrounds and prior knowledge students bring to a course. By grading solely on final performance, conventional systems penalize those who begin with less preparation, even if they make significant learning gains. This "deficit thinking" model fosters high anxiety and encourages students to focus on meeting fixed grade benchmarks rather than engaging in genuine exploration and mastery.
 
 ## Solution
 
-There are a variety of plays that may fall under the "ungrading" category. In this one, assessment is based on individual student improvement over the course, as measured by pre- and post-evaluations.
-
-- At the beginning of the course or unit, administer a pre-test to establish each student's current level of conceptual understanding
-- Based on the results, provide differentiated instruction to individual students to improve their weak points as indentified by the pre-test
-- At the conclusion, administer a post-test and evaluate each individual student's growth relative to the baseline results
+Implement an improvement-based assessment model that leverages baseline data to tailor instruction. At the start of a course or unit, administer a validated diagnostic tool (such as a concept inventory) to establish each student's initial level of understanding. Use this data to provide differentiated, "hyperflex" learning opportunities—such as tiered assignments or targeted peer-to-peer tutoring—that address specific misconceptions identified in the pre-test. Finally, evaluate success by measuring the delta between the pre-test and a subsequent post-test, rewarding students for their individual learning journey and growth relative to their own starting point.
 
 ## Applicability
 
-The primary advantage of this approach is its move away from the "one size fits all" assumption of conventional grading. In theory, supplying differentiated instruction should help students learn more and faster, since they're receiving focused engagement on weak points.
-
-In practice, though, differentiated methods are hard to implement and scale. Instructors need to carefully consider how they'll actually implement differentiation: unless the class is very small, one-on-one (one-to-few) tutoring is not viable. In most cases, this approach assumes some type of electronic resource that can be customized to each student's weak points. This is discussed in more detail below. Instructors also need to select (or design) the pre- and post- assessments. Some model assessments exist in specific areas, like the Force Concept Inventory for physics, but there are relatively few such standardized assessments for computer science.
-
-Unless an instructor choose to forgo conventional grades entirely, there's still a need to map results of the pre- and post-assessments to actual scores or letters.
+This play is highly effective in "gateway" courses where students often enter with vastly different levels of preparation. It is particularly well-suited for environments that can leverage AI-powered adaptive learning platforms to provide real-time, individualized feedback. A key tradeoff is the need for high-quality, standardized diagnostic instruments (like the Force Concept Inventory in physics) which may not exist for all disciplines. Instructors must also manage the complexity of calculating improvement scores and explaining how these map to institutional grades, especially for high-achieving students who may experience "ceiling effects."
 
 ## How to Implement
 
-Here is a summary of recommendations included in the source:
-
-- Select a concept inventory or other assessment that can be used as a pre- and post-assessment of students' mastery of the content. This could be decided at the level of the entire course, a unit, or a single topic.
-
-- Adminster the pre-assessment to every student.
-
-- Analyze the scores to identify significant gaps and opportunities for improvement for each student.
-
-- Develop a differentiated instruction plan with individualized recommendations for each student. The authors suggest that AI tools may be helpful in providing this differentiation, but don't supply any specifics of how AI-based instruction could be implemented.
-
-- Periodically, test students again on the assessment. Determine each students' gain over the baseline level established at the beginning.
-
-- Monitor and adjust instruction in response to each round of assessments.
-
-The authors implemented this strategy in a physics course using the Force Concept Inventory as their assessment instrument. Students grades were determined by scaling the improvement scores to a fixed range, taking into account the distribution of improvement scores across the class. The grading system has to account for topping out: students who are already close to the top score on the assessment have less room to improve and are rewarded for maintaining a high score even if their improvement is small in absolute terms.
+Start by selecting or designing a baseline assessment that accurately probes core concepts. Administer this pre-test early—ideally before formal instruction begins—to provide a clear snapshot of student knowledge. Analyze the results to group students by common misconceptions and design targeted interventions, potentially using AI tools to generate personalized feedback or supplemental resources. Throughout the course, periodically re-assess and adjust instruction based on progress. To determine final grades, use a linear transformation formula that converts improvement points into a standard grade scale, ensuring you account for a "saturation range" (e.g., the top 10% of scores) so that students who start at a high level are rewarded for maintaining excellence even if their absolute improvement score is smaller.
 
 ## Source
 
-Source: Crogman, H. T., Eshun, K. O., Jackson, M., TrebeauCrogman, M. A., Joseph, E., Warner, L. C., & Erenso, D. B. (2023). Ungrading: The Case for Abandoning Institutionalized Assessment Protocols and Improving Pedagogical Strategies. Education Sciences, 13(11), 1091.
+Crogman, H. T., Eshun, K. O., Jackson, M., TrebeauCrogman, M. A., Joseph, E., Warner, L. C., & Erenso, D. B. (2023). Ungrading: The Case for Abandoning Institutionalized Assessment Protocols and Improving Pedagogical Strategies. Education Sciences, 13(11), 1091. https://doi.org/10.3390/educsci13111091
 
-Described by: Dan S. Myers, dmyers@rollins.edu 
+> **AI Disclosure:** This play was modified using generative AI. You can view the original version at [https://cs-equitable-grading-practices.github.io/playbook/contents.html](https://cs-equitable-grading-practices.github.io/playbook/contents.html)
 
 ## Community Discussion
 

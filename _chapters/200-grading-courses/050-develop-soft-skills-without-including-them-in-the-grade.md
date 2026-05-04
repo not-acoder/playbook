@@ -1,69 +1,38 @@
 ---
 title: Develop Soft Skills Without Including Them in the Grade
 slug: develop-soft-skills-without-including-them-in-the-grade
-
 ---
+
 ## Intent
 
-To remove soft skills from grades and establish the connection between soft skills and academic performance, so that students enhance their intrinsic motivation to develop those soft skills for improving their academic performance.
+Decouple non-academic "soft skills" (e.g., meeting deadlines, self-regulation, cooperation) from academic grades to ensure evaluations accurately reflect content mastery, while using formative feedback loops to show students how these behaviors directly support their academic success.
 
 ## Problem
 
-Soft skills, such as self-regulation, meeting deadlines, cooperation, etc., are non-academic skills and behaviors that students should learn and are important for students’ success in the professional world. In traditional grading, evaluation of students’ performance in the soft skills are considered as part of the grade. This creates the following problems:
-+ It makes grades inequitable as it no longer accurately represents students' academic performance in the course. 
-+ It makes grade less transparent and unclear as grades on soft skills are often added holistically and are subjective and biased.
-+ Grading soft skills, make it independent from the academic performance. Students often try to be compliant of the soft skill to earn points rather than understanding that the soft skill, such as meeting deadlines or asking questions in class, could lead to their academic success.  
-+ Penalizing soft skills misrepresents the real world, making it seem harsh and unfair.
-
+Traditional grading often combines academic performance with behavioral measures, such as punctuality or classroom participation. This "omnibus" approach creates several inequities: it obscures a student's actual level of knowledge, introduces significant teacher bias, and encourages mere compliance rather than genuine skill development. Furthermore, penalizing students for behavioral mistakes misrepresents professional environments, where mistakes often lead to constructive feedback rather than permanent punitive marks. When soft skills are independent of academic outcomes in a student's mind, they fail to see how self-regulation and collaboration are the essential means to achieving their learning ends.
 
 ## Solution
 
-Following are the ways equitable grading can help students achieve soft skills and self-regulation. These will equip students with skills necessary for self-assessment that will lead to developing a sustainable assessment system.
-
-  + Creating a community of feedback: Foster a classroom community where feedback - from peers, oneself, and teachers - is an integral part of learning. This happens when the responsibility for evaluation and feedback is shared between instructors and students. Empowered with the knowledge and ability to provide meaningful feedback, students gain greater control over their learning. They also develop essential soft skills, including giving constructive feedback, listening and reflecting on input, and self-assessing progress toward their goals.
-  + Using student trackers and goal-setting: This structured process allows students to document their progress over time while developing essential soft skills. A student tracker enhances soft skill growth by: 1) encouraging students to take responsibility for recording and monitoring their performance, 2) fostering reflection on their actions and how they influence outcomes, and 3) empowering them through a structured cycle of goal-setting, action-taking, and outcome evaluation. By using trackers, students gain a sense of ownership and control over their learning. This method shifts grades from being teacher-controlled and seemingly arbitrary to something students can actively influence through self-assessment, planning, and reflection. 
-These processes help students to develop soft skills - such as setting goals, taking responsibility and reflecting on their progress - to enhance their graded performance, eliminating the need to grade soft skills separately. Student trackers foster metacognitive skills, helping students recognize the link between soft skills and performance. They enable students to identify strengths and weaknesses, focus on areas for improvement, reinforce a growth mindset, and enhance motivation.
-
-
+Shift the focus from grading soft skills to building a classroom community of feedback. By differentiating between the "means" (soft skills and practice) and the "ends" (academic success), instructors can use a broad range of non-graded feedback to coach students on professional behaviors. Implementing student-led trackers and goal-setting cycles allows students to take ownership of their progress, helping them recognize the causal link between their habits—like asking questions or managing time—and their final mastery levels. This approach fosters metacognition and intrinsic motivation, as students learn to value soft skills as tools for their own growth rather than just ways to earn points.
 
 ## Applicability
 
-This approach is adaptable to different class sizes, courses, and structures, providing instructors with flexibility on how to implement it. Below are some examples.
+This approach is adaptable across all disciplines and grade levels where professional behaviors are valued alongside academic content. It is particularly effective in collaborative or project-based learning environments. However, instructors should consider the tradeoff of increased time required for frequent feedback cycles and the need to scaffold self-assessment skills for students who may initially resist the lack of "easy points" for participation. It works best when behavioral expectations are made explicit through non-graded rubrics and when students feel safe to make and learn from mistakes without fear of grade penalties.
 
 ## How to Implement
 
-+ Creating a community of feedback: To foster a feedback-driven learning environment, instructors should develop rubrics that clearly define expectations for academic performance. These rubrics empower students to assess their own and peers’ work objectively. Instructors should guide students in providing constructive feedback rather than judgmental comments, using tools like sentence starters and role-playing exercises to refine their feedback skills. Instructors can also help students learn how to sift through the feedback and identify next steps and goals to improve performance – an important soft skill.
-
-  Beyond performance, rubrics can also define essential soft skills, such as such as ‘staying on task’, and ‘collaborating effectively’, making behavioral expectations explicit and transparent. Students and teachers can share examples of different behaviors and identify where those fall in the rubric. Teacher can use the rubric to assess students and provide feedback on their soft skills and students can use the same rubric to access their group’s collective behavior or their own behavior and compare these assessments. This structured approach helps to create a classroom community that has a shared understanding of soft skills, which empowers students, and the relationship between teachers and students are strengthened.
-
-  The source provides an example of a soft-skill rubric on schoolwide Habits of Scholarship from the Windsor Locks Middle School in Connecticut.
-
-+ Using student trackers and goal-setting: 
-One way to use this tracker is for students to set performance goals for each criterion in an assignment rubric and compare their targets to their actual performance. This process fosters soft skills such as goal-setting, self-assessment, reflection, and continuous improvement, helping students identify weaknesses and focus on areas for growth.
-
-  A variation of this approach includes tracking homework performance, identifying improvement strategies, recording subsequent results, and reflecting on the impact of their efforts. Teachers can offer guidance on actionable steps students can take before their next assessment, further supporting their progress.
-
-  The source provides an example Writing Performance Tracker sheet.
-
-
+Start by developing clear rubrics that define behavioral expectations (e.g., "staying on task," "collaborating effectively") separately from academic ones. Share examples of these behaviors and have students use the rubrics for peer- and self-assessment during group work. To track growth, introduce a weekly "Performance Tracker" or similar document where students set goals for each rubric criterion and reflect on their progress. Periodically, replace traditional grade check-ins with student-led grade conferences where learners present their trackers and argue for their mastery level based on their recorded data. Use these conversations to provide "just-in-time" coaching on specific soft skills that may be hindering their academic performance, ensuring that every behavioral correction is framed as a pathway to higher achievement.
 
 ## See Also
-
-_List any other related plays here as a bullet list of chapter links.
-Then remove this text._
 
 
 ## Source
 
-Source: Feldman, J. (2023). Grading for equity: What it is, why it matters, and how it can transform schools and classrooms. Corwin Press.
+Feldman, J. (2023). Grading for equity: What it is, why it matters, and how it can transform schools and classrooms. Corwin Press.
 
-
-Described by: Debarati Basu, basud@erau.edu
-
+> **AI Disclosure:** This play was modified using generative AI. You can view the original version at [https://cs-equitable-grading-practices.github.io/playbook/contents.html](https://cs-equitable-grading-practices.github.io/playbook/contents.html)
 
 ## References
-
-Any other references that describe more about the play.
 
 
 ## Community Discussion

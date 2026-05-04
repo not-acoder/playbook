@@ -2,38 +2,26 @@
 title: Multiple assessment mechanisms
 slug: multiple-assessment-mechanisms
 ---
+
 ## Intent
 
-Provide multiple mechanisms by which students can demonstrate proficiency on core course concepts, recognizing that students may struggle to express their ideas in certain formats like tests.
+Provide diverse assessment formats (interviews, code reviews, quizzes, reports) for each core concept, allowing students to demonstrate mastery through their strongest communication medium.
 
 ## Problem
 
-Traditional assessments typically provide one opportunity in one format for students to demonstrate proficiency or mastery of a concept or skill. For instance, a concept might only be assessed on a single exam question, or a skill may be assessed in a single project. Structuring assessments in this way ignores the fact that students learn at different rates, come to the college classroom with different needs and backgrounds, and may struggle to express their ideas in certain assessment formats (like tests). Students may in fact have mastered a concept or skill, but may be better able to communicate this mastery in a different format.
-
+Traditional grading relies on a single assessment type (like a high-stakes exam) to measure mastery. This approach disadvantages students who understand the material but struggle with specific formats, such as time-pressured testing or written-only expression. It also fails to account for varied learning rates and backgrounds, often measuring a student's 'test-taking ability' rather than their actual proficiency in the course concepts.
 
 ## Solution
 
-**Design multiple assessment mechanisms for each core course concept or skill.** Students can demonstrate proficiency in the core competencies in multiple ways throughout the course. 
-
-Examples given in the source document include:
-+ Code reviews, for each programming or algorithm design assignment, where students meet 1-1 with the professor or other course staff to present their code / algorithm and answer questions about it.
-+ Oral interviews, where students meet 1-1 with the professor to answer questions about core concepts.
-+ Online quizzes, auto-graded and randomized.
-+ Written reports and oral reports, where students apply course concepts to novel and/or real-world problems.
-
+Design a suite of varied assessment mechanisms for each core competency, ensuring that no single failure in one format prevents a student from demonstrating mastery. Students can use different modalities—oral, written, or practical—to prove their understanding. This multimodal approach includes direct instructor interaction (interviews, code reviews) alongside independent tasks (randomized quizzes, reports), creating a more holistic and accurate picture of student learning.
 
 ## Applicability
 
-By choosing assessment types judiciously, this play can be scaled up or down for different class sizes, and can fit different class styles throughout the CS curriculum. 
-
-Some of the example assessments given in the source paper are time-intensive: many are done in person and 1-1. Those types of assessments work best in small-to-medium sized courses with adequate staffing. 
-
+This play is highly applicable in STEM fields, particularly Computer Science and Engineering, where both conceptual knowledge and practical application (like coding) are required. It scales effectively by balancing time-intensive 1-1 interactions (interviews) with low-overhead automated tasks (quizzes). Constraints include the instructor's and TAs' availability for scheduling personal interactions. Tradeoffs involve higher administrative complexity in tracking multiple assessment attempts and the need for a robust scheduling system (like a sign-up sheet for interview slots).
 
 ## How to Implement
 
-+ Consider the time available for course assessments and reassessments. How much time is available in office hours? Can assessments in multiple formats occur during class time? Does the instructor and/or teaching assistant staff need to schedule specific assessment times?
-+ Consider the scale of assessments that the course can support, given the number of students in the course, the structure of the course, and the workload of the instructor and course staff. For instance, individual interviews might be harder to pull off in a class of 500 students.
-+ Give students choice, where possible, on how to demonstrate knowledge or skills. For instance, students can explain code in person in office hours, submit a video code walkthrough, or draw a diagram showing relationships between different pieces of the code.
+To implement multiple assessment mechanisms, follow this sequence: (1) Define 6–8 core competencies for the course. (2) For each competency, select 2–3 different assessment methods from the following list: (a) Oral Interviews: Schedule short (under 20-minute) 1-1 sessions with students to provide immediate feedback. (b) Code Reviews: Require students to walk an instructor or TA through their programming logic and answer critique questions. (c) Online Quizzes: Use an LMS to create self-administered, randomized quizzes that students can take at their own pace. (d) Written Reports: Assign technical papers or ethics essays. (e) Oral Reports: Have students record a short (under 10-minute) video explaining a course topic and share it with the class. (3) Schedule 'Evaluation Days' during the semester where no new content is delivered, allowing class time to be used for these varied assessments. (4) Use a centralized tracking system (like an LMS gradebook) to record the highest achievement level reached across any of the assessment formats for each competency.
 
 ## See Also
 
@@ -42,9 +30,9 @@ Some of the example assessments given in the source paper are time-intensive: ma
 
 ## Source
 
-Source: Fine, Benjamin T. 2024. Competency and Equity Driven Grading System for Computer Science Curriculum. In _Proceedings of the 2024 Innovation and Technology in Computer Science Education V. 1 (ITiCSE 2024)_, July 8–10, 2024, Milan, Italy. ACM, New York, NY, USA, 7 pages. <https://doi.org/10.1145/3649217.3653564>
+Fine, Benjamin T. 2024. Competency and Equity Driven Grading System for Computer Science Curriculum. In Proceedings of the 2024 Innovation and Technology in Computer Science Education V. 1 (ITiCSE 2024), July 8–10, 2024, Milan, Italy. ACM, New York, NY, USA, 7 pages. https://doi.org/10.1145/3649217.3653564
 
-Described by: Amy Csizmar Dalal (adalal@carleton.edu)
+> **AI Disclosure:** This play was modified using generative AI. You can view the original version at [https://cs-equitable-grading-practices.github.io/playbook/contents.html](https://cs-equitable-grading-practices.github.io/playbook/contents.html)
 
 ## Community Discussion
 
