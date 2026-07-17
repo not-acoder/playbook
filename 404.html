@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <script>
+    // Get the current path and query strings
+    var oldPath = window.location.pathname;
+    var oldSearch = window.location.search;
+    
+    // Construct the new URL (Change 'org-b' and 'repo' to your actual values)
+    var newTarget = "https://cs-alternative-grading-practices.github.io" + oldPath + oldSearch;
+    
+    // Redirect immediately
+    window.location.replace(newTarget);
+  </script>
+</head>
+<body>
+  <p>Redirecting to the new site... If nothing happens, <a id="fallback" href="https://cs-alternative-grading-practices.github.io">click here</a>.</p>
+  <script>
+    document.getElementById('fallback').href = "https://cs-alternative-grading-practices.github.io" + oldPath + oldSearch;
+  </script>
+</body>
+</html>
