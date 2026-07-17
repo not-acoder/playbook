@@ -1,11 +1,11 @@
 ---
 slug: book
-title: The Playbook of Equitable Grading Practices
+title: The Playbook of Alternative Grading Practices
 abstract: >
-  The Playbook of Equitable Grading Practices, created by the corresponding
+  The Playbook of Alternative Grading Practices, created by the corresponding
   working group of SIGCSE Virtual 2024, and associated with the
-  CS Equitable Grading Practices project
-  (https://cs-equitable-grading-practices.github.io/).
+  CS Alternative Grading Practices project
+  (https://cs-alternative-grading-practices.github.io/).
 ---
 
 Copyright &copy; {{"now" | date: "%Y"}} by {{site.author}}.

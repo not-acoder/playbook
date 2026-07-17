@@ -1,19 +1,19 @@
 remote_theme: jasongrimes/jekyll-chapterbook
 
-title:            EGP Playbook
-longtitle:        The Playbook of Equitable Grading Practices
+title:            AGP Playbook
+longtitle:        The Playbook of Alternative Grading Practices
 author:           SIGCSE Virtual 2024 Working Group
 email:            edwards@cs.vt.edu
 description: >
-  The Playbook of Equitable Grading Practices, created by the corresponding
+  The Playbook of Alternative Grading Practices, created by the corresponding
   working group of SIGCSE Virtual 2024, and associated with the
-  CS Equitable Grading Practices project
-  (https://cs-equitable-grading-practices.github.io/).
+  CS Alternative Grading Practices project
+  (https://cs-alternative-grading-practices.github.io/).
 
 # If baseurl_canonical is set,
 # a <link rel="canonical"> tag will be added to the head of each page,
 # to disambiguate links for search engines.
-baseurl_canonical: https://cs-equitable-grading-practices.github.io/playbook
+baseurl_canonical: https://cs-alternative-grading-practices.github.io/playbook
 
 # A copyright notice will be shown at the bottom of each page,
 # with the current year and the author name.
@@ -44,8 +44,8 @@ bookcrumbs:
 # Links shown above the TOC in the sidebar
 # All "url" variables should have a leading slash.
 sidebar_nav_top:
-- label: CS EGP Project
-  url: https://cs-equitable-grading-practices.github.io/
+- label: CS AGP Project
+  url: https://cs-alternative-grading-practices.github.io/
 
 # Links shown below the TOC in the sidebar
 # All "url" variables should have a leading slash.
@@ -63,10 +63,10 @@ bottom_nav:
   url: /index.html
 - label: Book
   url: /book.html
-- label: CS EGP Project
-  url: https://cs-equitable-grading-practices.github.io/
+- label: CS AGP Project
+  url: https://cs-alternative-grading-practices.github.io/
 - label: GitHub
-  url: https://github.com/cs-equitable-grading-practices/playbook
+  url: https://github.com/cs-alternative-grading-practices/playbook
 #- label: Privacy
 #  url: /privacy.html
 
@@ -92,7 +92,7 @@ sidebar_toc:
 # Show a link to edit each page on GitHub
 github_edit:
   enabled: true
-  base_url: https://github.com/cs-equitable-grading-practices/playbook/edit/main/
+  base_url: https://github.com/cs-alternative-grading-practices/playbook/edit/main/
 
 
 # Custom CSS
